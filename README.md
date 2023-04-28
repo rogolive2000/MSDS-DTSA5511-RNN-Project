@@ -1,7 +1,5 @@
 # MSDS-DTSA5511-RNN-Project
 
-NLP Disaster Tweets Kaggle Mini-Project
-
 Twitter has undoubtedly become a powerful tool for communication in times of emergency. With the increasing ubiquity of smartphones, individuals are now able to report events as they happen in real-time. As a result, more organizations are turning to Twitter as a source of information during disasters, including relief organizations and news agencies.
 
 However, the challenge lies in identifying which tweets are truly indicative of an emergency, as not all tweets that contain certain keywords or phrases necessarily correspond to a real disaster. This is where machine learning comes in.
